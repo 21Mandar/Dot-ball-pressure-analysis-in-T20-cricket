@@ -24,7 +24,7 @@ data/raw/t20i/*.json
 data/raw/bbl/*.json
 
 # Processed data (can be regenerated)
-data/processed/*.csv
+
 
 # OS generated files
 .DS_Store
