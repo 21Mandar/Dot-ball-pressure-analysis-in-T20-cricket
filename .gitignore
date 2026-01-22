@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Large raw data files
+data/raw/bbl_json/
+data/raw/ipl_json/
+data/raw/t20s_json/
+
+# Large processed files (>25MB)
+data/processed/raw_ballbyball_data.csv
+data/processed/analysis_ready_data.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE settings
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
