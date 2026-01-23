@@ -3,8 +3,8 @@
 ## Quantifying How T20 Batsmen Respond to Dot Ball Pressure
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dot-ball-pressure-analysis-in-t20-cricket-nxq9efrgyzmybc4bul3f.streamlit.app/)
 
 An advanced cricket analytics project that investigates how dot ball pressure affects batsmen's dismissal probability and behavioral response across different match phases in T20 cricket. Features a novel **Pressure Tolerance Score (PTS)** metric and player archetype classification system.
 
